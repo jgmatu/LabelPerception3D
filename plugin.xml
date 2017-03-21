@@ -1,0 +1,20 @@
+<library path="lib/librqt_label3D">
+  <class name="rqt_label3D/Label3D" type="rqt_label3D::Label3D" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      Label Perception 3D
+    </description>
+    <qtgui>
+      <!-- optional grouping...
+      <group>
+        <label>Group</label>
+      </group>
+      <group>
+        <label>Subgroup</label>
+      </group>
+      -->
+      <label>Label3D</label>
+      <icon type="theme">system-help</icon>
+      <statustip>Great user interface to label 3d Perceptions.</statustip>
+    </qtgui>
+  </class>
+</library>

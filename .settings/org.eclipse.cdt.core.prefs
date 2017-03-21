@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.23492238/ROS_PACKAGE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.23492238/ROS_PACKAGE_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.23492238/ROS_PACKAGE_PATH/value=/home/javi/catkin_ws/src\:/opt/ros/kinetic/share
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.23492238/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.23492238/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.792078328/ROS_PACKAGE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.792078328/ROS_PACKAGE_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.792078328/ROS_PACKAGE_PATH/value=/home/javi/catkin_ws/src\:/opt/ros/kinetic/share
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.792078328/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.792078328/appendContributed=true
